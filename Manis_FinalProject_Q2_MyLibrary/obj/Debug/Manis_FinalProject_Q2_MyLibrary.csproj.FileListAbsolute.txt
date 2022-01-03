@@ -1,0 +1,10 @@
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\bin\Debug\Manis_FinalProject_Q2_MyLibrary.exe.config
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\bin\Debug\Manis_FinalProject_Q2_MyLibrary.exe
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\bin\Debug\Manis_FinalProject_Q2_MyLibrary.pdb
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.Form1.resources
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.Properties.Resources.resources
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.exe
+C:\Users\ethan\source\repos\Manis_FinalProject_Q2_MyLibrary\obj\Debug\Manis_FinalProject_Q2_MyLibrary.pdb
